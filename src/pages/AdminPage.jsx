@@ -3,6 +3,7 @@ import { login, logout, isAuthenticated } from "../services/authService.js";
 import { listarAtracoesService, cadastrarAtracaoService, excluirAtracaoService } from "../services/atracaoService.js";
 import { updateAtracao } from "../services/firebase.js";
 import { useToast } from "../components/Toast.jsx";
+import './AdminPage.css'
 
 const TIPO_CONFIG = {
   Trilha:    { badge: "#3d7a52", icon: "🥾" },

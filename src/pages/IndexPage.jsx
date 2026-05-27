@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { getAtracoes } from "../services/firebase.js";
 import { AtracaoCard } from "../components/AtracaoCard.jsx";
+import './IndexPage.css'
 
 const FILTROS = [
   { label: "🗺️ Todos",      value: "todos" },
