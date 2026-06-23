@@ -32,7 +32,7 @@ export function IndexPage({ onNavigateAdmin }) {
         <div className="header-inner">
           <div className="logo-badge">🌿 Teresópolis · RJ</div>
           <h1 className="site-title">Terê Verde</h1>
-          <p className="site-subtitle">Trilhas, cachoeiras e eventos da natureza</p>
+          <p className="site-subtitle">Conheça trilhas, cachoeiras e eventos de Teresópolis</p>
           <button className="btn-outline-light" onClick={onNavigateAdmin}>
             Área Admin
           </button>
@@ -85,7 +85,6 @@ export function IndexPage({ onNavigateAdmin }) {
 
       <footer className="site-footer">
         <p>© 2025 <strong>Terê Verde</strong> — Circuito Ecoturístico de Teresópolis</p>
-        <p>Desenvolvido com ❤️ por Jeann Rezende</p>
       </footer>
     </>
   );
