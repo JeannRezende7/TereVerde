@@ -84,7 +84,7 @@ export function IndexPage({ onNavigateAdmin }) {
       </main>
 
       <footer className="site-footer">
-        <p>© 2025 <strong>Terê Verde</strong> — Circuito Ecoturístico de Teresópolis</p>
+        <p>© 2026 - MVP MOBILE DEVELOPMENT - <strong>Terê Verde</strong> — Circuito Ecoturístico de Teresópolis</p>
       </footer>
     </>
   );
