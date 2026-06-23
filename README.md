@@ -134,6 +134,6 @@ npm run dev
 | Campo | Valor |
 |---|---|
 | Usuário | `admin` |
-| Senha | `admin` |
+| Senha | `@dmin1` |
 
 ---

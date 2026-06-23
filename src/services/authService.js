@@ -1,5 +1,5 @@
 const SESSION_KEY = "tere_verde_admin";
-const CREDENTIALS = { usuario: "admin", senha: "admin" };
+const CREDENTIALS = { usuario: "admin", senha: "@dmin1" };
 
 export function login(usuario, senha) {
   if (usuario === CREDENTIALS.usuario && senha === CREDENTIALS.senha) {
