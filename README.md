@@ -36,7 +36,7 @@ O **Terê Verde** é uma plataforma web mobile-first que permite a turistas cons
 
 — O layout deve ser responsivo e funcionar em dispositivos Android (mobile-first).
 — Os dados devem ser integrados na nuvem via Firebase Firestore.
-— O código deve ser organizado em camadas: páginas, componentes e serviços.
+— O sistema deve possuir interface intuitiva e permitir que os usuários encontrem as informações desejadas de forma rápida e simples.
 
 ---
 
